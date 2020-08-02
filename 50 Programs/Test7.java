@@ -11,7 +11,7 @@ public class Test7 {
 		if((a%400 == 0) || ((a%4 == 0) && (a%100 != 0))){
 			System.out.println("CHEERS ! Leap Year");
 		}
-		else	System.out.println("OOPs! not leap");
+		else	System.out.println("OOPS! not leap");
 	}
 
 }
